@@ -1,3 +1,4 @@
 # PortfolioNew
-New test for portfolio
-hi
+Things needing work:
+Buttons
+all text and images are needing to be replaced (they are currently placeholders)
