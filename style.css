@@ -100,7 +100,11 @@ html, body
 {
     color: #2163a4;
 }
-.fa-code, .fa-bold, .fa-css3
+.fa-js
+{
+    color: #f0db4f;
+}
+.fa-code, .fa-bold, .fa-css3, .fa-js
 {
     font-size: 4em;
     margin: 1rem;
